@@ -28,6 +28,7 @@ body {
   padding-top: 10px;
   width: 82%;
   color: hsl(218, 44%, 22%);
+  font-weight: 700;
 }
 
 p {
@@ -35,4 +36,5 @@ p {
   width: 82%;
   color: hsl(220, 15%, 55%);
   padding-bottom: 37px;
+  font-weight: 400;
 }
